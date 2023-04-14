@@ -14,15 +14,7 @@ key
 
 <h2>Test Csv File</h2>
 id,url,headline,author,date
-0,https://www.theverge.com/2022/4/3/23008668/tesla-shanghai-factory-closed-lockdown-covid-c
-hina,Tesla’s Shanghai factory stays closed as COVID restrictions remain in place,Emma
-Roth,2022/4/3
-1,https://www.theverge.com/2022/4/2/22999741/fortnite-chapter-3-season-2-building-returns-zer
-o-build-mode,Fortnite brings back building,Andrew Webster,2022/4/3
-....
-....
-37,https://www.theverge.com/2022/3/31/23004599/activision-blizzard-overwatch-anniversary-ev
-ent,Overwatch sixth anniversary event offers ‘remixes’ of popular skins,Ash Parrish,2022/3/31
+
 
 <h2>Coding Guidelines</h2>
 - Please write modular code using best OOP practices
